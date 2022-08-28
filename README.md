@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # vue-manage
 
 ## Project setup
@@ -22,3 +23,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+# vue-manage-system
+>>>>>>> 87ca89571be2d8d88f3f2db8d1a670bba00e9adf
